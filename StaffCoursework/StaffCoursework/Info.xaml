@@ -1,0 +1,13 @@
+﻿<Window x:Class="StaffCoursework.Info"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Про програму" Height="300" Width="300" ResizeMode="CanMinimize">
+    <Grid>
+        <Image Source="Images/STAFF.jpg" HorizontalAlignment="Left" Height="113" Margin="40,2,0,0" VerticalAlignment="Top" Width="242"/>
+        <Label Content="Програму створив студент ПІ-22 Національного" HorizontalAlignment="Left" Margin="5,120,0,0" VerticalAlignment="Top"/>
+        <Label Content="університету &quot;Львівська політехніка&quot; в якості" HorizontalAlignment="Left" Margin="10,143,0,0" VerticalAlignment="Top"/>
+        <Label Content="курсової роботи з предмету &quot;Об'єктно-" HorizontalAlignment="Left" Margin="21,166,0,0" VerticalAlignment="Top"/>
+        <Label Content="орієнтоване програмування&quot; Здебський Петро" HorizontalAlignment="Left" Margin="5,189,0,0" VerticalAlignment="Top"/>
+        <Label Content="2015" HorizontalAlignment="Left" Margin="119,236,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+    </Grid>
+</Window>

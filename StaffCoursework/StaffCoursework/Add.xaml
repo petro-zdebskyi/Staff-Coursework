@@ -1,0 +1,31 @@
+﻿<Window x:Class="StaffCoursework.Add"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Додати" Height="338" Width="311"
+        ResizeMode="CanMinimize">
+    <Grid>
+        <TextBox x:Name="AddSurnameTextBox" ToolTip="Заповніть всі поля" HorizontalAlignment="Left" Height="23" Margin="142,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="AddSurnameTextBox_TextChanged"/>
+        <TextBox x:Name="AddNameTextBox" ToolTip="Заповніть всі поля" HorizontalAlignment="Left" Height="23" Margin="142,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="AddNameTextBox_TextChanged"/>
+        <TextBox x:Name="AddBirthdayTextBox" ToolTip="Заповніть всі поля" HorizontalAlignment="Left" Height="23" Margin="142,106,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="AddBirthdayTextBox_TextChanged"/>
+        <TextBox x:Name="AddDateOfEmploymentTextBox" ToolTip="Заповніть всі поля" HorizontalAlignment="Left" Height="23" Margin="142,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="AddDateOfEmploymentTextBox_TextChanged"/>
+        <TextBox x:Name="AddDepartmentTextBox" ToolTip="Заповніть всі поля" HorizontalAlignment="Left" Height="23" Margin="142,168,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="AddDepartmentTextBox_TextChanged"/>
+        <TextBox x:Name="AddProjectTextBox" ToolTip="Заповніть всі поля" HorizontalAlignment="Left" Height="23" Margin="142,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="AddProjectTextBox_TextChanged"/>
+        <TextBox x:Name="AddSalaryTextBox" ToolTip="Заповніть всі поля" HorizontalAlignment="Left" Height="23" Margin="142,230,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="AddSalaryTextBox_TextChanged"/>
+        <Button x:Name="AddButton" ToolTip="Заповніть всі поля" Content="Додати" HorizontalAlignment="Left" Margin="105,267,0,0" VerticalAlignment="Top" Width="75" Click="AddButton_Click"/>
+        <Label Content="Додати новий елемент : " HorizontalAlignment="Left" Margin="62,10,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="Прізвище : " HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ім'я : " HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top"/>
+        <Label Content="Народження : " HorizontalAlignment="Left" Margin="10,103,0,0" VerticalAlignment="Top"/>
+        <Label Content="Працевлаштування : " HorizontalAlignment="Left" Margin="10,134,0,0" VerticalAlignment="Top"/>
+        <Label Content="Відділ : " HorizontalAlignment="Left" Margin="10,165,0,0" VerticalAlignment="Top"/>
+        <Label Content="Проект : " HorizontalAlignment="Left" Margin="10,196,0,0" VerticalAlignment="Top"/>
+        <Label Content="Заробітня плата : " HorizontalAlignment="Left" Margin="10,227,0,0" VerticalAlignment="Top"/>
+        <CheckBox Name="SurnameCheckBox" Content="" IsHitTestVisible="False" IsTabStop="False" HorizontalAlignment="Left" Margin="267,48,0,0" VerticalAlignment="Top"/>
+        <CheckBox Name="NameCheckBox" Content="" IsHitTestVisible="False" IsTabStop="False" HorizontalAlignment="Left" Margin="267,79,0,0" VerticalAlignment="Top"/>
+        <CheckBox Name="BirthdayCheckBox" Content="" IsHitTestVisible="False" IsTabStop="False" HorizontalAlignment="Left" Margin="267,110,0,0" VerticalAlignment="Top"/>
+        <CheckBox Name="DateOfEmploymentCheckBox" Content="" IsHitTestVisible="False" IsTabStop="False" HorizontalAlignment="Left" Margin="267,141,0,0" VerticalAlignment="Top"/>
+        <CheckBox Name="DepartmentCheckBox" Content="" IsHitTestVisible="False" IsTabStop="False" HorizontalAlignment="Left" Margin="267,172,0,0" VerticalAlignment="Top"/>
+        <CheckBox Name="ProjectCheckBox" Content="" IsHitTestVisible="False" IsTabStop="False" HorizontalAlignment="Left" Margin="267,203,0,0" VerticalAlignment="Top"/>
+        <CheckBox Name="SalaryCheckBox" Content="" IsHitTestVisible="False" IsTabStop="False" HorizontalAlignment="Left" Margin="267,234,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

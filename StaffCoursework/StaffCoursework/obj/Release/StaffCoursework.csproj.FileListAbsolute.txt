@@ -1,0 +1,53 @@
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\bin\Release\StaffCoursework.exe.config
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\bin\Release\StaffCoursework.exe
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\bin\Release\StaffCoursework.pdb
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\StaffCoursework.csprojResolveAssemblyReference.cache
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\Add.baml
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\Delete.baml
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\DepartmentsByBirthday.baml
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\Help.baml
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\Info.baml
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\MainWindow.baml
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\ProjectsInDepartment.baml
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\Add.g.cs
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\Delete.g.cs
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\DepartmentsByBirthday.g.cs
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\Help.g.cs
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\Info.g.cs
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\MainWindow.g.cs
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\ProjectsInDepartment.g.cs
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\App.g.cs
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\StaffCoursework_MarkupCompile.cache
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\StaffCoursework.g.resources
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\StaffCoursework.Properties.Resources.resources
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\StaffCoursework.csproj.GenerateResource.Cache
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\StaffCoursework.exe
+C:\Users\Petro\Documents\Visual Studio 2013\Projects\StaffCoursework\StaffCoursework\obj\Release\StaffCoursework.pdb
+D:\Навчання\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\bin\Release\StaffCoursework.exe.config
+D:\Навчання\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\StaffCoursework.exe
+D:\Навчання\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\StaffCoursework.pdb
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\bin\Release\StaffCoursework.exe.config
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\StaffCoursework.exe
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\StaffCoursework.pdb
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\bin\Release\StaffCoursework.exe
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\bin\Release\StaffCoursework.pdb
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\StaffCoursework.csprojResolveAssemblyReference.cache
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\Add.baml
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\Delete.baml
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\DepartmentsByBirthday.baml
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\Help.baml
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\Info.baml
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\MainWindow.baml
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\ProjectsInDepartment.baml
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\Add.g.cs
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\Delete.g.cs
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\DepartmentsByBirthday.g.cs
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\Help.g.cs
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\Info.g.cs
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\MainWindow.g.cs
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\ProjectsInDepartment.g.cs
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\App.g.cs
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\StaffCoursework_MarkupCompile.cache
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\StaffCoursework.g.resources
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\StaffCoursework.Properties.Resources.resources
+D:\Навчання\#Попередні семестри\2 курс\2 курс (1 семестр)\ООП курсова робота\Здебський Петро (курсова робота)\StaffCoursework\StaffCoursework\obj\Release\StaffCoursework.csproj.GenerateResource.Cache
